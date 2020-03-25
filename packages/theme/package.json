@@ -1,0 +1,8 @@
+{
+  "name": "@real-agent/theme",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "harold",
+  "license": "MIT",
+  "private": true
+}

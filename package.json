@@ -1,0 +1,13 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.20.2",
+    "prettier": "^2.0.2"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:haroldiaz20/real-agent-poc.git",
+  "author": "haroldiaz <hleond20@gmail.com>",
+  "license": "MIT"
+}
